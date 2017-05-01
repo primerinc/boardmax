@@ -1,0 +1,25 @@
+/* --------------------------------------------------
+TEMPLATE
+-------------------------------------------------- */
+.footer-container-wrapper {
+    background: #f3f3f3;
+}
+.footer-container .widget-type-linked_image {
+    background: #7f7f7f;
+}
+
+
+/* --------------------------------------------------
+PAGE STYLES
+-------------------------------------------------- */
+/* THE OFFER */
+.cos_offer .widget-type-form {
+    border-bottom: 8px solid #92c83f;
+}
+
+
+/* --------------------------------------------------
+RESPONSIVE
+-------------------------------------------------- */
+@media (max-width: 1024px) {
+}

@@ -1,0 +1,67 @@
+.widget-type-blog_subscribe.subscribe {
+    background: url("http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/headline-boardmax.png") no-repeat center center
+}
+
+.subscribe h3:before {
+    color: #92c83f
+}
+
+.subscribe .hs-button {
+    background: #92c83f
+}
+
+.filters-search a.grid {
+    background: url("http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/filter-grid-streamlink.png") no-repeat 100% 1px;
+    padding: 0 20px 0 0;
+    margin: 0 24px 0 0
+}
+
+.filters-search a.list {
+    background: url("http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/filter-list-streamlink.png") no-repeat 100% 2px;
+    padding: 0 25px 0 0
+}
+
+.filters-search select {
+    background: url("http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/filter-grid-streamlink.png") no-repeat 100% center
+}
+
+.post-meta,
+.post-meta a {
+    color: #92c83f
+}
+
+.body-container .more-link:hover,
+.body-container .more-link span {
+    color: #92c83f
+}
+
+.blog-pagination li {
+    background: #f3f3f3;
+    color: #92c83f
+}
+
+.blog-pagination .active,
+.blog-pagination li:hover {
+    background: #92c83f;
+    color: #fff !important;
+}
+
+.blog-pagination a {
+    color: #92c83f
+}
+
+.blog-pagination a:hover {
+    color: #fff
+}
+
+.blog-pagination a:active {
+    color: #fff !important;
+}
+
+.blog-pagination li.prev:hover:before {
+    border-color: transparent #92c83f transparent transparent
+}
+
+.blog-pagination li.next:hover:after {
+    border-color: transparent transparent transparent #92c83f
+}

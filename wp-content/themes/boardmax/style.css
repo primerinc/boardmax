@@ -1,0 +1,15 @@
+/*
+Theme Name: BoardMax
+Theme URI: http://www.boardmax.com
+Author: Primer Inc
+Author URI: http://primerinc.org/
+Description: Custom BoardMax theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: boardmax
+*/
+
+.topbar-adjust {
+	float: right;
+}

@@ -1,0 +1,436 @@
+.home-banner {
+    background-position: center center !important;
+    background-size: cover !important;
+    height: 446px
+}
+
+.home-banner .content {
+    width: 94%;
+    max-width: 1070px;
+    margin: 0 auto;
+    overflow: hidden;
+    height: 100%;
+    position: relative
+}
+
+.home-banner .content .text {
+    float: left;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    visibility: hidden
+}
+
+.home-banner h1 {
+    font: 400 30px/1.15em 'Lato', sans-serif;
+    color: #fff;
+    margin: 0 0 34px;
+    text-shadow: 0 0 7px #333;
+    -webkit-font-smoothing: antialiased
+}
+
+.home-banner a {
+    display: inline-block;
+    background: url('http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/bg-overlay-dark.png') repeat;
+    padding: 4px 16px 6px 13px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    -webkit-font-smoothing: antialiased
+}
+
+.home-banner a:before {
+    content: ">";
+    color: #92c83f;
+    margin-right: 5px
+}
+
+.home-banner a:hover {
+    color: #92c83f
+}
+
+.features {
+    font-size: 18px;
+    line-height: 145%
+}
+
+.features>div {
+    width: 94%;
+    max-width: 1070px;
+    margin: 0 auto;
+    position: relative
+}
+
+.features .span4 {
+    width: 33.33%;
+    padding: 34px 0 60px;
+    margin: 0
+}
+
+.features .left {
+    padding: 34px 2em 60px 0
+}
+
+.features h3 {
+    color: #92c83f;
+    font: 700 16px 'Lato', sans-serif;
+    margin: 0 0 14px
+}
+
+.features h3 img {
+    margin: 0 11px 0 0
+}
+
+.features blockquote {
+    color: gray;
+    font-style: italic;
+    margin: 0 0 32px
+}
+
+.features .author {
+    overflow: hidden;
+    font-size: 11px;
+    line-height: 155%
+}
+
+.features .author img {
+    float: left;
+    margin: 0 22px 0 0;
+    max-width: 63px
+}
+
+.features .author h4 {
+    font: 700 12px 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #7f7f7f;
+    margin: 3px 0;
+    -webkit-font-smoothing: antialiased
+}
+
+.features .author p {
+    margin: 0
+}
+
+.features .middle {
+    background: #f0f0f0;
+    color: #747474;
+    padding: 34px 25px 0;
+    float: none;
+    position: absolute;
+    left: 33.33%;
+    top: 0;
+    height: 100%
+}
+
+.features .middle .text {
+    padding: 0 15px;
+    margin: 0 0 36px
+}
+
+.features .middle .text p {
+    margin: 0
+}
+
+.features .hs_cos_wrapper_type_blog_subscribe h3 {
+    display: none
+}
+
+.features form {
+    position: relative
+}
+
+.features .hs-form-fied {
+    margin: 0
+}
+
+.features label {
+    display: none
+}
+
+.features input.hs-input {
+    border: 0;
+    padding: 0 10px 0 100px;
+    line-height: 42px;
+    height: 42px
+}
+
+.features input:focus {
+    outline: 0
+}
+
+.features::-webkit-input-placeholder {
+    color: #b6b6b6;
+    font: 400 12px/42px 'Lato', sans-serif
+}
+
+.features:-moz-placeholder {
+    color: #b6b6b6;
+    font: 400 12px/42px 'Lato', sans-serif
+}
+
+.features::-moz-placeholder {
+    color: #b6b6b6;
+    font: 400 12px/42px 'Lato', sans-serif
+}
+
+.features:-ms-input-placeholder {
+    color: #b6b6b6;
+    font: 400 12px/42px 'Lato', sans-serif
+}
+
+.features .hs-button {
+    background: #92c83f;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0 15px;
+    line-height: 42px;
+    height: 42px
+}
+
+.features .right {
+    color: #747474;
+    padding: 34px 0 60px 2em;
+    float: right
+}
+
+.features .right p {
+    margin: 0 0 14px
+}
+
+.features .middle .read-more a,
+.features .right a {
+    font-size: 14px;
+    color: #747474;
+    text-decoration: none
+}
+
+.features .middle .read-more a:before,
+.features .right a:before {
+    content: ">";
+    color: #92c83f;
+    margin-right: 5px
+}
+
+.features .middle .read-more a:hover,
+.features .right a:hover {
+    color: #92c83f
+}
+
+.features .home-blog-list {
+    font-size: 14px;
+    padding-left: 20px;
+    line-height: 1.5em;
+    margin-bottom: 0
+}
+
+.features .home-blog-list li {
+    padding-bottom: 1em
+}
+
+.features .home-blog-list a {
+    text-decoration: none
+}
+
+.features .home-blog-list a:hover {
+    color: #faaf0e
+}
+
+.logo-parade {
+    background: url(../images/section-shadow.png?t=1462391771409) repeat-x;
+    text-align: center;
+    padding: 66px 0
+}
+
+.logo-parade>div {
+    width: 94%;
+    max-width: 1070px;
+    margin: 0 auto
+}
+
+.logo-parade h3 {
+    display: inline-block;
+    background: #92c83f;
+    color: #fff;
+    font: 700 18px/1.3em 'Lato', sans-serif;
+    padding: 11px 25px 13px;
+    margin: 0
+}
+
+.logo-parade .logos {
+    padding: 54px 20px 43px;
+    border: 1px solid #eaeaea;
+    overflow: hidden;
+    margin-top: -12px
+}
+
+.logo-parade .logos>div {
+    float: left;
+    text-align: center;
+    visibility: hidden;
+    height: 90px;
+    line-height: 90px;
+    padding: 0 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.logo-parade img {
+    vertical-align: middle
+}
+
+@media(max-width:1024px) {
+    .features .left {
+        padding: 34px 20px 60px 0
+    }
+    .features .middle {
+        padding: 34px 20px 0
+    }
+    .features .middle .text {
+        padding: 0
+    }
+    .features .right {
+        padding: 34px 0 60px 20px
+    }
+}
+
+@media(max-width:800px) {
+    .home-banner {
+        height: 306px
+    }
+    .home-banner .content .text {
+        width: 52%
+    }
+    .home-banner h1 {
+        font: 400 25px/1.2em 'Lato', sans-serif;
+        margin: 0 0 24px
+    }
+    .home-banner a {
+        font-size: 16px
+    }
+    .features>div {
+        width: 100%
+    }
+    .features .middle {
+        position: static;
+        width: 100%;
+        padding: 39px 33px 32px;
+        overflow: hidden
+    }
+    .features .middle .text {
+        width: 50%;
+        float: left;
+        margin: 0
+    }
+    .features .hs_cos_wrapper_type_blog_subscribe {
+        width: 40%;
+        float: right;
+        margin: 46px 0 0
+    }
+    .features .left,
+    .features .right {
+        width: 50%;
+        padding: 35px 33px 47px
+    }
+    .features .left {
+        position: relative
+    }
+    .features .left:after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 36px;
+        width: 1px;
+        height: 234px;
+        background: #f0f0f0
+    }
+    .logo-parade .logos {
+        padding: 41px 20px 12px
+    }
+    .logo-parade .logos>div {
+        float: none;
+        width: 33.33% !important;
+        vertical-align: top;
+        display: inline-block;
+        margin-right: -4px;
+        margin-bottom: 12px
+    }
+}
+
+@media(max-width:767px) {
+    .home-banner .content .text {
+        width: 100%
+    }
+    .features .middle .text {
+        width: 100%;
+        float: none;
+        margin: 0 0 45px
+    }
+    .features .hs_cos_wrapper_type_blog_subscribe {
+        width: 100%;
+        float: none;
+        margin: 0
+    }
+    .features .left {
+        float: none;
+        width: 100%;
+        padding: 39px 20px 40px;
+        border-bottom: 1px solid #f0f0f0
+    }
+    .features .right {
+        float: none;
+        width: 100%;
+        padding: 43px 20px 38px
+    }
+}
+
+@media(max-width:480px) {
+    .home-banner {
+        height: auto;
+        background-position: 100% 0 !important
+    }
+    .home-banner .content {
+        padding: 40px 0 50px
+    }
+    .home-banner .content .text {
+        float: none;
+        position: static;
+        margin-top: 0 !important
+    }
+    .home-banner a {
+        font-size: 14px
+    }
+    .features {
+        font-size: 16px
+    }
+    .features .middle {
+        padding: 35px 20px 32px
+    }
+    .logo-parade {
+        border-top: 1px solid #f0f0f0;
+        padding: 43px 0 0
+    }
+    .logo-parade .logos {
+        border: 0;
+        padding: 31px 0 53px;
+        margin-top: 0
+    }
+    .logo-parade .logos>div {
+        width: 100% !important;
+        display: block;
+        height: auto;
+        line-height: normal;
+        margin: 33px 0 0
+    }
+    .logo-parade .logos>div:first-child {
+        margin: 0
+    }
+}

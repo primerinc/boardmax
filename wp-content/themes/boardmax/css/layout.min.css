@@ -1,0 +1,476 @@
+.row-fluid {
+    width: 100%;
+    *zoom: 1
+}
+
+.row-fluid:before,
+.row-fluid:after {
+    display: table;
+    content: ""
+}
+
+.row-fluid:after {
+    clear: both
+}
+
+.row-fluid [class*="span"] {
+    display: block;
+    float: left;
+    width: 100%;
+    min-height: 28px;
+    margin-left: 2.127659574%;
+    *margin-left: 2.0744680846382977%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.row-fluid [class*="span"]:first-child {
+    margin-left: 0
+}
+
+.row-fluid .span12 {
+    width: 99.99999998999999%;
+    *width: 99.94680850063828%
+}
+
+.row-fluid .span11 {
+    width: 91.489361693%;
+    *width: 91.4361702036383%
+}
+
+.row-fluid .span10 {
+    width: 82.97872339599999%;
+    *width: 82.92553190663828%
+}
+
+.row-fluid .span9 {
+    width: 74.468085099%;
+    *width: 74.4148936096383%
+}
+
+.row-fluid .span8 {
+    width: 65.95744680199999%;
+    *width: 65.90425531263828%
+}
+
+.row-fluid .span7 {
+    width: 57.446808505%;
+    *width: 57.3936170156383%
+}
+
+.row-fluid .span6 {
+    width: 48.93617020799999%;
+    *width: 48.88297871863829%
+}
+
+.row-fluid .span5 {
+    width: 40.425531911%;
+    *width: 40.3723404216383%
+}
+
+.row-fluid .span4 {
+    width: 31.914893614%;
+    *width: 31.8617021246383%
+}
+
+.row-fluid .span3 {
+    width: 23.404255317%;
+    *width: 23.3510638276383%
+}
+
+.row-fluid .span2 {
+    width: 14.89361702%;
+    *width: 14.8404255306383%
+}
+
+.row-fluid .span1 {
+    width: 6.382978723%;
+    *width: 6.329787233638298%
+}
+
+.container-fluid {
+    *zoom: 1
+}
+
+.container-fluid:before,
+.container-fluid:after {
+    display: table;
+    content: ""
+}
+
+.container-fluid:after {
+    clear: both
+}
+
+@media(max-width:767px) {
+    .row-fluid {
+        width: 100%
+    }
+    .row-fluid [class*="span"] {
+        display: block;
+        float: none;
+        width: auto;
+        margin-left: 0
+    }
+}
+
+@media(min-width:768px) and (max-width:1139px) {
+    .row-fluid {
+        width: 100%;
+        *zoom: 1
+    }
+    .row-fluid:before,
+    .row-fluid:after {
+        display: table;
+        content: ""
+    }
+    .row-fluid:after {
+        clear: both
+    }
+    .row-fluid [class*="span"] {
+        display: block;
+        float: left;
+        width: 100%;
+        min-height: 28px;
+        margin-left: 2.762430939%;
+        *margin-left: 2.709239449638298%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box
+    }
+    .row-fluid [class*="span"]:first-child {
+        margin-left: 0
+    }
+    .row-fluid .span12 {
+        width: 99.999999993%;
+        *width: 99.9468085036383%
+    }
+    .row-fluid .span11 {
+        width: 91.436464082%;
+        *width: 91.38327259263829%
+    }
+    .row-fluid .span10 {
+        width: 82.87292817100001%;
+        *width: 82.8197366816383%
+    }
+    .row-fluid .span9 {
+        width: 74.30939226%;
+        *width: 74.25620077063829%
+    }
+    .row-fluid .span8 {
+        width: 65.74585634900001%;
+        *width: 65.6926648596383%
+    }
+    .row-fluid .span7 {
+        width: 57.182320438000005%;
+        *width: 57.129128948638304%
+    }
+    .row-fluid .span6 {
+        width: 48.618784527%;
+        *width: 48.5655930376383%
+    }
+    .row-fluid .span5 {
+        width: 40.055248616%;
+        *width: 40.0020571266383%
+    }
+    .row-fluid .span4 {
+        width: 31.491712705%;
+        *width: 31.4385212156383%
+    }
+    .row-fluid .span3 {
+        width: 22.928176794%;
+        *width: 22.874985304638297%
+    }
+    .row-fluid .span2 {
+        width: 14.364640883%;
+        *width: 14.311449393638298%
+    }
+    .row-fluid .span1 {
+        width: 5.801104972%;
+        *width: 5.747913482638298%
+    }
+}
+
+@media(min-width:1280px) {
+    .row-fluid {
+        width: 100%;
+        *zoom: 1
+    }
+    .row-fluid:before,
+    .row-fluid:after {
+        display: table;
+        content: ""
+    }
+    .row-fluid:after {
+        clear: both
+    }
+    .row-fluid [class*="span"] {
+        display: block;
+        float: left;
+        width: 100%;
+        min-height: 28px;
+        margin-left: 2.564102564%;
+        *margin-left: 2.510911074638298%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box
+    }
+    .row-fluid [class*="span"]:first-child {
+        margin-left: 0
+    }
+    .row-fluid .span12 {
+        width: 100%;
+        *width: 99.94680851063829%
+    }
+    .row-fluid .span11 {
+        width: 91.45299145300001%;
+        *width: 91.3997999636383%
+    }
+    .row-fluid .span10 {
+        width: 82.905982906%;
+        *width: 82.8527914166383%
+    }
+    .row-fluid .span9 {
+        width: 74.358974359%;
+        *width: 74.30578286963829%
+    }
+    .row-fluid .span8 {
+        width: 65.81196581200001%;
+        *width: 65.7587743226383%
+    }
+    .row-fluid .span7 {
+        width: 57.264957265%;
+        *width: 57.2117657756383%
+    }
+    .row-fluid .span6 {
+        width: 48.717948718%;
+        *width: 48.6647572286383%
+    }
+    .row-fluid .span5 {
+        width: 40.170940171000005%;
+        *width: 40.117748681638304%
+    }
+    .row-fluid .span4 {
+        width: 31.623931624%;
+        *width: 31.5707401346383%
+    }
+    .row-fluid .span3 {
+        width: 23.076923077%;
+        *width: 23.0237315876383%
+    }
+    .row-fluid .span2 {
+        width: 14.529914530000001%;
+        *width: 14.4767230406383%
+    }
+    .row-fluid .span1 {
+        width: 5.982905983%;
+        *width: 5.929714493638298%
+    }
+}
+
+.clearfix {
+    *zoom: 1
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: table;
+    content: ""
+}
+
+.clearfix:after {
+    clear: both
+}
+
+.hide {
+    display: none
+}
+
+.show {
+    display: block
+}
+
+.invisible {
+    visibility: hidden
+}
+
+.hidden {
+    display: none;
+    visibility: hidden
+}
+
+.visible-phone {
+    display: none !important
+}
+
+.visible-tablet {
+    display: none !important
+}
+
+.hidden-desktop {
+    display: none !important
+}
+
+@media(max-width:767px) {
+    .visible-phone {
+        display: inherit !important
+    }
+    .hidden-phone {
+        display: none !important
+    }
+    .hidden-desktop {
+        display: inherit !important
+    }
+    .visible-desktop {
+        display: none !important
+    }
+}
+
+@media(min-width:768px) and (max-width:1139px) {
+    .visible-tablet {
+        display: inherit !important
+    }
+    .hidden-tablet {
+        display: none !important
+    }
+    .hidden-desktop {
+        display: inherit !important
+    }
+    .visible-desktop {
+        display: none !important
+    }
+}
+
+/* Resources Boardmax Min  */
+
+.featured-resource .more-link span,
+.featured-resource .more-link:hover,
+.hubspot-topic_data,
+.hubspot-topic_data a,
+.post-item a.link span,
+.post-item:hover a.link,
+.post-item:hover h3 a,
+.post-item:hover .more-link,
+.featured-resource:hover .more-link {
+    color: #92c83f
+}
+
+.post-item .text {
+    border-bottom: 4px solid #92c83f
+}
+
+/* Search results */
+ul.search_result {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul.search_result h3 a, ul.search_result h3 {
+    font-size: 16px;
+    color: #15C;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+ul.search_result p {
+    font-size: 13px;
+    color: #000;
+    line-height: 1.5em;
+}
+
+ul.search_result .h-readmore {
+    
+}
+
+ul #gform_fields_1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#gform_fields_1 input[type="text"], #gform_fields_1 input[type="number"], #gform_fields_1 input[type="email"], #gform_fields_1 input[type="url"],  #gform_fields_1input[type="search"], #gform_fields_1 input[type="tel"], #gform_fields_1 select {
+    padding: 7px 6px;
+    display: inline-block;
+    width: 100%;
+    color: #747474;
+    border: 1px solid #dcdcdc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+
+#gform_fields_1 .gfield {
+    padding: 10px 0;
+    width: 100%;
+}
+
+#gform_wrapper_1 .gfield_label{
+    display: none;
+}
+
+#gform_fields_1 select, #gform_fields_3 select, #gform_fields_4 select, #gform_fields_5 select, #gform_fields_6 select, #gform_fields_7 select, #gform_fields_8 select, #gform_fields_9 select, #gform_fields_10 select, #gform_fields_11 select, #gform_fields_12 select, #gform_fields_14 select {
+    background: url('http://www4.boardmax.com.php56-3.dfw3-2.websitetestlink.com/wp-content/uploads/2017/04/form-dropdown-boardmax.png') no-repeat 100% center;
+    padding-right: 40px;
+    height: 30px;
+}
+
+#gform_submit_button_1, #gform_submit_button_3, #gform_submit_button_4, #gform_submit_button_5, #gform_submit_button_6, #gform_submit_button_7, #gform_submit_button_8, #gform_submit_button_9, #gform_submit_button_10, #gform_submit_button_11, #gform_submit_button_12, #gform_submit_button_14  {
+    display: inline-block;
+    border: 0;
+    cursor: pointer;
+    font: 700 11px 'Lato',sans-serif;
+    background: #4d4e4e;
+    color: #fff;
+    padding: 9px 15px;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+
+#gform_fields_3, #gform_fields_4 , #gform_fields_5 , #gform_fields_6 , #gform_fields_7, #gform_fields_8, #gform_fields_9, #gform_fields_10, #gform_fields_11, #gform_fields_12, #gform_fields_14 {
+    color: #747474;
+    font-size: 12px;
+}
+
+#gform_fields_3 input, #gform_fields_4 input, #gform_fields_5 input, #gform_fields_6 input, #gform_fields_7 input, #gform_fields_8 input, #gform_fields_9 input, #gform_fields_10 input, #gform_fields_11 input, #gform_fields_12 input, #gform_fields_14 input{
+    width: 100%;
+}
+
+#gform_fields_3 input[type="text"], #gform_fields_4 input[type="text"], #gform_fields_5 input[type="text"], #gform_fields_6 input[type="text"], #gform_fields_7 input[type="text"], #gform_fields_8 input[type="text"], #gform_fields_10 input[type="text"], #gform_fields_11 input[type="text"], #gform_fields_12 input[type="text"], #gform_fields_14 input[type="text"] {
+    padding: 7px 6px;
+    display: inline-block;
+    width: 100%;
+    color: #747474;
+    border: 1px solid #dcdcdc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+
+.wpp-list li {
+    height: 350px;
+    width: 100%;
+}
+
+.related-image {
+    display: block;
+    overflow: hidden;
+}
+.related-image img {
+    display: block !important;
+}
+
+@media(max-width:1024px) {}
+
+@media(max-width:800px) {}
+
+@media(max-width:603px) {}

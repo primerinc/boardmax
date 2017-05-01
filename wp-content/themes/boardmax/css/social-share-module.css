@@ -1,0 +1,70 @@
+/*.sharebar .sharrre {
+    width: auto;
+    display: inline-block;
+    overflow: visible;
+}*/
+.sharebar .sharrre a {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    line-height: 24px;
+    text-align: center;
+    position: relative;
+    vertical-align: middle;
+    color: #fff;
+    margin-left: 5px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.sharebar .sharrre a.facebook {
+    background: #37559c;
+    margin-left: 0;
+}
+.sharebar .sharrre a.twitter {
+    background: #00aaf3;
+}
+.sharebar .sharrre a.linkedin {
+    background: #0078bb;
+}
+.sharebar .sharrre a.googlePlus {
+    background: #e2472a;
+}
+.sharebar .sharrre a.pinterest {
+    background: #bf1e1f;
+}
+.sharebar .sharrre a.email {
+    background: #828282;
+}
+.sharebar .sharrre a:hover {
+    background: #006cb5 !important;
+}
+.sharebar .sharrre i {
+    font-size: 14px;
+}
+.sharebar .sharrre a span {
+    opacity: 0;
+    position: absolute;
+    top: 0%;
+    display: block;
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    font-family: Helvetica,arial, sans-serif;
+    text-decoration: none;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    color: #828282;
+}
+.sharebar .sharrre a:hover span {
+    opacity: 1;
+    display: block;
+    top: -100%;
+}
